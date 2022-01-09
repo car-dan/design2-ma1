@@ -69,7 +69,7 @@ footer {
 	max-width: 300px;
 	padding: 20px;
 	background-color: white;
-	border: 2px solid var(--dark-text);
+	border: 0.5px solid var(--dark-text);
 	margin-bottom: 40px;
 }
 
