@@ -89,6 +89,7 @@ footer {
 }
 
 .product-card p {
+	padding-left: 1rem;
 	font-size: 0.8rem;
 	padding-bottom: 1rem;
 }
