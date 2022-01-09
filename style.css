@@ -69,7 +69,7 @@ footer {
 	max-width: 300px;
 	padding: 20px;
 	background-color: white;
-	border: 0.5px solid var(--dark-text);
+	border: 2px solid var(--dark);
 	margin-bottom: 40px;
 }
 
@@ -84,7 +84,7 @@ footer {
 
 .product-card h2 {
 	text-align: center;
-	font-size: 1.5rem;
+	font-size: 1.8rem;
 	padding: 1rem 0;
 }
 
