@@ -47,6 +47,16 @@ footer {
 	margin-top: 40px;
 }
 
+.icon {
+	max-width: 50px;
+	max-height: 50px;
+}
+
+.contact a {
+	text-decoration: none;
+	color: var(--dark-text);
+}
+
 .logo img {
 	max-height: 20vh;
 }
