@@ -26,18 +26,28 @@ body {
 	background-color: var(--light);
 }
 
-nav,
-footer {
-	font-family: dolly-small-caps-new;
-	font-weight: 400;
+nav a,
+footer a,
+.copyright {
+	font-family: dolly-new, sans-serif;
+	font-weight: 600;
 	font-style: normal;
+	letter-spacing: 2px;
 }
 
-button,
+button {
+	font-family: dolly-new, sans-serif;
+	font-weight: 700;
+	font-size: 2em;
+	font-style: normal;
+	letter-spacing: 2px;
+}
+
 h1 {
 	font-family: tangier;
 	font-weight: bold;
 	font-size: 2.5em;
+	letter-spacing: 10px;
 }
 
 nav {
